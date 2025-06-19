@@ -1,0 +1,25 @@
+.header{
+    background-color: orange;
+    text-align: center;
+    padding: 30px;
+}
+.aboutus{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+.ourproducts1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 30px;
+    row-gap: 10px;
+
+}
+.ourproducts{
+    text-align: center;
+}
+.contact{
+    padding: 20px;
+    background-color: aliceblue;
+}
